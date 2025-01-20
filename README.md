@@ -8,11 +8,11 @@ To design a TrAffic Light Control System using an Arduino Uno for controlling th
 1. Arduino Uno
 2. Raspberry Pi (Model 3 or later)
 3. 3 LEDs (Red, Yellow, Green)
-4. **Resistors** (220Ω or 330Ω)
-5. **Breadboard**
-6. **Jumper wires**
-7. **USB cable** to connect Arduino to Raspberry Pi
-8. **Raspberry Pi OS** with Python installed
+4. Resistors (220Ω or 330Ω)
+5. Breadboard
+6. Jumper wires
+7. USB cable to connect Arduino to Raspberry Pi
+8. Raspberry Pi OS with Python installed
 
 ## ALGORITHAM :
 
