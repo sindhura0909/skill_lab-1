@@ -2,7 +2,7 @@
 ## To control a **Traffic Light System** using an **Arduino Uno** and a **Raspberry Pi**, you can use the Raspberry Pi to act as the control center that communicates with the Arduino Uno to manage the traffic light system.
 
 ### Aim:
-To design a **Traffic Light Control System** using an **Arduino Uno** for controlling the LEDs and a **Raspberry Pi** to handle the logic and communication. The Raspberry Pi will send commands to the Arduino to control the traffic lights, and the Arduino will manage the LEDs (Red, Yellow, Green) accordingly.
+To design a TrAffic Light Control System using an Arduino Uno for controlling the LEDs and a Raspberry Pi to handle the logic and communication. The Raspberry Pi will send commands to the Arduino to control the traffic lights, and the Arduino will manage the LEDs (Red, Yellow, Green) accordingly.
 
 ### Components Needed:
 1. Arduino Uno
