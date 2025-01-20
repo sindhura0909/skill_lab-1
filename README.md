@@ -25,3 +25,7 @@ To design a **Traffic Light Control System** using an **Arduino Uno** for contro
   - Use a 220Ω resistor for each LED in series to limit the current.
  
 ## OUTPUT :
+![Uploading WhatsApp Image 2025-01-09 at 6.11.47 PM.jpeg…]()
+
+## RESULT :
+This setup allows the Raspberry Pi to act as the control center and the Arduino to handle the traffic light operation, making it a flexible and expandable system for real-world applications.
